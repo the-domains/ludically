@@ -1,6 +1,6 @@
 name: Ludically
 favicon: null
-layout_spectrum: 0.10899337660521269
+layout_spectrum: 0.99258
 typography_spectrum: 0.5617195481900126
 title: Ludically
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.0940492779482156
+    - '#e3441f'
+    - '#ffffff'
+    - '#171416'
+    - '#773520'
+    - '#b1b1b1'
+  brandStrength: 0.1875
   lightness: 0.5480225929059088
   saturation: 0.9848919552750885
   rhythmicContrast: 0.8383568830322474
