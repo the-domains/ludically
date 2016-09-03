@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Bandes Dessinées
+    id: 22906edb-2c89-4e92-b9c7-e6feca41b5f5
+    type: content
 favicon: null
 title: Ludically
 description: Boardgames
