@@ -1,20 +1,4 @@
-name: Ludically
-favicon: null
-layout_spectrum: 0.99258
 typography_spectrum: 0.38385
-title: Ludically
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e3441f'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5480225929059088
   saturation: 0.9848919552750885
   rhythmicContrast: 0.8383568830322474
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99258
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ludically
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ludically
+description: Boardgames
 purpose: []
