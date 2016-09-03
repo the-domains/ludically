@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ludically]]></title>
         <description><![CDATA[Ludically]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ludically/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 17:08:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 15:27:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ludically/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bandes Dessinées]]></title>
-            <description><![CDATA[<article><h1>Bandes Dessinées</h1><p>Entrez dans la peau d’un collectionneur de Bandes Dessinées. Choisissez vos séries préférées et partez compléter vos collections en librairie ou chez d’autres collectionneurs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7b280a3-9ad2-447a-acc7-142fa6c2d05b.png"></article>]]></description>
-            <link>undefinedbandes-dessinees/index.html</link>
+            <description><![CDATA[<article><h1>Bandes Dessinées</h1><p>Entrez dans la peau d’un collectionneur de Bandes Dessinées. Choisissez vos séries préférées et partez compléter vos collections en librairie ou chez d’autres collectionneurs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a394cffaff499411974f3c12e8698522a6dd8aa1.png"></article>]]></description>
+            <link>https://thegrid.ai/ludically/bandes-dessinees/index.html</link>
             <guid isPermaLink="false">22906edb-2c89-4e92-b9c7-e6feca41b5f5</guid>
-            <pubDate>Fri, 15 Jan 2016 17:08:18 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 15:27:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
