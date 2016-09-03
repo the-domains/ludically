@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-15T17:08:18.113Z'
-dateModified: '2016-01-15T17:07:36.652Z'
+description: >-
+  Entrez dans la peau d’un collectionneur de Bandes Dessinées. Choisissez vos
+  séries préférées et partez compléter vos collections en librairie ou chez
+  d’autres collectionneurs.
+datePublished: '2016-08-31T15:27:49.233Z'
+dateModified: '2016-08-31T15:27:48.575Z'
 title: Bandes Dessinées
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-01-15-bandes-dessinees.md
-published: true
+via: {}
+starred: false
 url: bandes-dessinees/index.html
 _type: Article
 
